@@ -25,7 +25,7 @@ This project was done as part of my finaly year, Capstone Design Project.
 - Inside Arduino board is connected to a MCP4725 I2C DAC, a ICL7660SCPAZ inverter and EC glass. This arduino board will control most of the functions/calculations as well as connect to the user's phone if available
 
   **Main Component: EC glass**
-  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/d0ce87af-ea5e-4427-bc9d-85a16970499b" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4bf6ccae-f2ac-4408-be68-ff395aa4544e" />
 - When voltage is applied across the coatings, ions travel from one layer to another layer, prompting a reversible solid-state change that causes the coating to tint and absorb light. In other words, the glass gets darker.
 - To have the opposite effect, ie, make the glass transparent again, reverse voltage( in our case 0.7V) can be applied for max 30 seconds
 
