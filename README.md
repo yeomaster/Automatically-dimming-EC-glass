@@ -19,8 +19,7 @@ This project was done as part of my finaly year, Capstone Design Project.
 
 **Circuit Design/layout**
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1a388453-ac0e-462a-9afc-e91014c2f1cc" />
-
-
+<br>
 - Outside Arduino 33 BLE Nano is connected to a light sensor and a Rx coil, this will be placed 'oustide' i.e, made to be placed in the environment as a means to get outside lux readings
 - Inside Arduino board is connected to a MCP4725 I2C DAC, a ICL7660SCPAZ inverter and EC glass. This arduino board will control most of the functions/calculations as well as connect to the user's phone if available
 
@@ -45,8 +44,8 @@ This project was done as part of my finaly year, Capstone Design Project.
  - measured tranmission = the actual amount of transmission being detected
 
 **graphs showing the luminosty increasing and decreasing due to EC glass darkening and brightening respectively:**
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/3cacba50-f592-4506-b743-231e00bb218d" />
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/306e2736-8039-4b54-a7ec-3f5cdfc5139c" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/3cacba50-f592-4506-b743-231e00bb218d" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/306e2736-8039-4b54-a7ec-3f5cdfc5139c" />
 
 
 **Video example:**
